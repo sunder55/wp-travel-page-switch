@@ -1,0 +1,1 @@
+# wp-travel-page-switch
